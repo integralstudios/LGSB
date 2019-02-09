@@ -1,0 +1,20 @@
+/* TEAM */
+
+Your title: Arthur Lambillotte
+Site: http://www.artlambi.be
+
+Your title: Louis Van de Calseyde
+Site: https://github.com/vdclouis
+
+Your title: Pierre Van der Eecken
+Site: https://www.pierrevde.com
+
+/* THANKS */
+
+Name: Laurent Garnier
+
+/* SITE */
+
+Last update: 2019/02/09
+Standards: HTML5, CSS3,..
+Components: Normalize, Open Sans Fontface
